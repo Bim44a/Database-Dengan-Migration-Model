@@ -4,8 +4,8 @@ Pengelolaan database menggunakan Laravel Migration dan Eloquent ORM. Migration m
 
 ## Tugas Pertemuan 10
 
-**Nama**: Bima Adi Nugroho
-**NIM** : 60324077
+**Nama:** Bima Adi Nugroho  
+**NIM:** 60324077  
 
 ---
 
