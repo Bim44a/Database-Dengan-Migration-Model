@@ -4,12 +4,12 @@ Pengelolaan database menggunakan Laravel Migration dan Eloquent ORM. Migration m
 
 ## Tugas Pertemuan 10
 
-- Nama: Bima Adi Nugroho
-- NIM : 60324077
+### Nama: Bima Adi Nugroho
+### NIM : 60324077
 
 ---
 
-## Hasil Migration dan Seeder
+## Migration dan Seeder
 
 ![Migration dan Seeder](images-pw10/migrate_seed.png)
 
@@ -24,5 +24,4 @@ Pengelolaan database menggunakan Laravel Migration dan Eloquent ORM. Migration m
 ## Hasil Testing Route
 
 ![Test Routing 1](images-pw10/test1.png)
-
 ![Test Routing 2](images-pw10/test2.png)
